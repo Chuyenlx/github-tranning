@@ -4,3 +4,4 @@ git basic begin
 ##Introduct
 ##Purpose
 ##How to contribute
+##CHUYENVODICH
