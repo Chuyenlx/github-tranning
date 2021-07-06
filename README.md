@@ -14,3 +14,4 @@ Git disable merge
 #example Rebase
 #copyright
 resever file
+stash file untracking
