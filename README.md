@@ -1,3 +1,4 @@
+dalat ba noi ma
 # github-tranning
 git basic begin 
 #Start Web Project
