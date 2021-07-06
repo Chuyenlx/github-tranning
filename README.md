@@ -5,3 +5,4 @@ git basic begin
 ##Purpose
 ##How to contribute
 ##CHUYENVODICH
+*toi la ai day la dau
