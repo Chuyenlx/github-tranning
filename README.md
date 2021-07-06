@@ -12,3 +12,5 @@ git basic begin
 Git disable merge
 #please fork this repository issue pull
 #example Rebase
+#copyright
+resever file
