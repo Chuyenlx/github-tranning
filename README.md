@@ -9,3 +9,4 @@ git basic begin
 #()DHDHKHDKHS
 #copyright now
 Git disable merge
+#please fork this repository issue pull
