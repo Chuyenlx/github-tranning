@@ -7,3 +7,5 @@ git basic begin
 ##CHUYENVODICH
 *toi la ai day la dau
 #()DHDHKHDKHS
+#copyright now
+Git disable merge
