@@ -6,3 +6,4 @@ doi bai dao duc
 % handling conflict merge
 rebase conflict
 Stash git branch
+Tag note:
