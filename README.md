@@ -15,4 +15,4 @@ Git disable merge
 #copyright
 resever file
 stash file untracking
-stash file untracking part 2
+stash file on branch
