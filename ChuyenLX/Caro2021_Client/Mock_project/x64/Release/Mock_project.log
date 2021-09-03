@@ -1,0 +1,12 @@
+﻿  Connect.cpp
+C:\Users\ChuyenPC\Desktop\Mock Caro\Mock_ChuyenLX\Mock_project\Connect.cpp(94,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ChuyenPC\Desktop\Mock Caro\Mock_ChuyenLX\Mock_project\Connect.cpp(123,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ChuyenPC\Desktop\Mock Caro\Mock_ChuyenLX\Mock_project\Connect.cpp(336,7): warning C4101: 'buf': unreferenced local variable
+C:\Users\ChuyenPC\Desktop\Mock Caro\Mock_ChuyenLX\Mock_project\Connect.cpp(334,6): warning C4101: 'Choose': unreferenced local variable
+C:\Users\ChuyenPC\Desktop\Mock Caro\Mock_ChuyenLX\Mock_project\Connect.cpp(333,6): warning C4101: 'End': unreferenced local variable
+  Generating code
+  2 of 141 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Mock_project.vcxproj -> C:\Users\ChuyenPC\Desktop\Mock Caro\Mock_ChuyenLX\Mock_project\x64\Release\Mock_project.exe

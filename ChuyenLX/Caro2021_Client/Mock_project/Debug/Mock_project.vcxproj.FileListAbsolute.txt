@@ -1,0 +1,2 @@
+C:\Users\ChuyenPC\Desktop\Mock Caro\Mock_ChuyenLX\Mock_project\Debug\Mock_project.exe
+C:\Users\ChuyenPC\Desktop\Mock Caro\Mock_ChuyenLX\Mock_project\Debug\Mock_project.pdb

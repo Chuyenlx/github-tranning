@@ -1,0 +1,10 @@
+﻿  Board.cpp
+  Connect.cpp
+C:\Users\ChuyenPC\Desktop\Mock Caro\Mock_ChuyenLX\Mock_project\Connect.cpp(335,7): warning C4101: 'buf': unreferenced local variable
+C:\Users\ChuyenPC\Desktop\Mock Caro\Mock_ChuyenLX\Mock_project\Connect.cpp(333,6): warning C4101: 'Choose': unreferenced local variable
+C:\Users\ChuyenPC\Desktop\Mock Caro\Mock_ChuyenLX\Mock_project\Connect.cpp(332,6): warning C4101: 'End': unreferenced local variable
+  Play.cpp
+  User.cpp
+  Generating Code...
+C:\Users\ChuyenPC\Desktop\Mock Caro\Mock_ChuyenLX\Mock_project\Connect.cpp(109): warning C4172: returning address of local variable or temporary: Buffer
+  Mock_project.vcxproj -> C:\Users\ChuyenPC\Desktop\Mock Caro\Mock_ChuyenLX\Mock_project\Debug\Mock_project.exe
